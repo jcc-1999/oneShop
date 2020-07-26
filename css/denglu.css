@@ -1,0 +1,101 @@
+body{
+    background: #FCFCFC;
+}
+.a1{
+    background-color: white;
+    border-bottom: 1px solid;
+}
+.aa1{
+    margin: 0px auto;
+    width: 990px;
+    background-color: white;
+}
+.aa2>img{
+    vertical-align: middle;
+}
+.aa2{
+    display: inline-block;
+    border: 1px solid #e1e1e1;
+    padding: 4px 2px;
+}
+.aa3{
+    float:right
+}
+.a2{
+    width: 990px;
+    height: 500px;
+    margin: 0px auto;
+    background: url("../images/loadimg.jpg") 0px 50px no-repeat;
+
+}
+.a2{
+    width: 990px;
+    margin: 0px auto;
+
+}
+p{
+    text-align: center;
+
+}
+.a4{
+    width: 300px;
+    height: 350px;
+    border: 1px none;
+    background-color: white;
+    position: relative;
+    top: 70px;
+    left: 600px;
+}
+.a5{
+    color: blue;
+
+}
+.a5,.a6,.s3{
+    float:right;
+
+}
+.a7{
+    background-color: red;
+    border: none;
+}
+.d1,.d2,.d3,.d4{
+    margin: 20px;
+
+}
+
+.s1,.d5{
+    padding: 10px;
+
+}
+.d5 img{
+    padding-right: 10px;
+}
+.s1,.s2{
+    font-size: 10px;
+}
+.d5>img{
+    vertical-align: middle;
+
+}
+table input{
+    padding-left: 30px;
+
+}
+.i1{
+    background: url("../images/lock1.png") no-repeat;
+    outline: none;
+    border: none;
+}
+.i2{
+    background: url("../images/lock.png") no-repeat;
+    outline: none;
+    border: none;
+}
+td{
+    width:220px;
+    height: 30px;
+    border:1px solid;
+}
+a{
+    text-decoration:none;
+}
